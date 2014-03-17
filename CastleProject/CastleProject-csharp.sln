@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{6AAD1D22-96E5-B18A-4F6B-7668F75A1FFB}") = "CastleProject", "Assembly-CSharp-firstpass-vs.csproj", "{520AF409-A40F-4F7B-4B57-49178C060AE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{520AF409-A40F-4F7B-4B57-49178C060AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520AF409-A40F-4F7B-4B57-49178C060AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520AF409-A40F-4F7B-4B57-49178C060AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520AF409-A40F-4F7B-4B57-49178C060AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
