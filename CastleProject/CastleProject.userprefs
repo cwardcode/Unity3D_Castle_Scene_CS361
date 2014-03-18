@@ -1,9 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\BridgeAction.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GlobalInput.js">
     <Files>
-      <File FileName="Assets\BridgeAction.js" Line="6" Column="38" />
-      <File FileName="Assets\GlobalInput.js" Line="22" Column="71" />
+      <File FileName="Assets\GlobalInput.js" Line="7" Column="21" />
+      <File FileName="Assets\BridgeAction.js" Line="20" Column="16" />
       <File FileName="Assets\OpenScene.js" Line="6" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
